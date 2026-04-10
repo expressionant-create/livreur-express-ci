@@ -1,5 +1,3 @@
-# livreur-express-ci
-Micro SaaS de gestion de livraisons pour vendeurs en ligne à Abidjan (n8n + Zite + WhatsApp)
 # Livreur Express CI
 
 **Micro SaaS pour vendeurs Instagram/Facebook à Abidjan**  
