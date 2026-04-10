@@ -30,15 +30,13 @@ Résultat : fatigue, erreurs et perte de temps précieux.
 - Couleurs : Vert émeraude et blanc (confiance + visibilité au soleil)
 
 ### 📸 Captures d’écran
-*(Ajoute ici tes screenshots dans le dossier /screenshots)*
 
-![Formulaire de commande](screenshots/formulaire.png)
-![Bordereau généré](screenshots/bordereau.png)
-![Message WhatsApp](screenshots/whatsapp.png)
+![Formulaire de commande](./screenshots/screenshots/formulaire.png)
+![Bordereau généré](./screenshots/VenteFacile Bordereau app.jpeg)
+![Message WhatsApp](./screenshots/Infos image Projet VenteFacile.jpg)
 
 ### 🔗 Démo en direct
 → [Accéder à l’application Livreur Express CI][(https://ton-lien-zite.app)](https://jprapport.zite.so/)  
-*(Remplace par ton vrai lien Zite une fois publié)*
 
 ### 📁 Fichiers du projet
 - `/screenshots/` → Images de l’interface
