@@ -41,7 +41,7 @@ Résultat : fatigue, erreurs et perte de temps précieux.
 
 ### 📁 Fichiers du projet
 - `/screenshots/` → Images de l’interface
-- `/n8n-workflow/` → Fichier JSON du workflow n8n (à importer directement)
+- `/n8n-workflow/` → Fichier JSON du workflow n8n (à importer directement) disponible sur demande.
 - `README.md` → Ce fichier
 
 ### 🎯 Valeur pour le vendeur
