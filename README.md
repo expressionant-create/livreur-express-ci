@@ -30,6 +30,7 @@ Résultat : fatigue, erreurs et perte de temps précieux.
 - Couleurs : Vert émeraude et blanc (confiance + visibilité au soleil)
 
 ### 📸 Captures d’écran
+*(Les captures sont dans le dossier /screenshots)*
 
 ![Formulaire de commande](./screenshots/screenshots/formulaire.png)
 ![Bordereau généré](./screenshots/VenteFacile Bordereau app.jpeg)
